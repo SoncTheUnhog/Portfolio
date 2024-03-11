@@ -33,10 +33,15 @@ p
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
-li
+ol
 {
-    text-align: left;
-    background: rgb(50, 50, 50);   
+    text-align: left;  
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul
+{
+    text-align: left;  
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
