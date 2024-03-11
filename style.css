@@ -5,6 +5,7 @@ body
 a
 {
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
 }
 h1
@@ -14,6 +15,9 @@ h1
     background: rgb(50, 50, 50);
     color: white;
     font-family: Arial, Helvetica, sans-serif;
+
+    border-radius: 20px;
+    border: black solid 300px;
 }
 h2
 {
@@ -29,7 +33,7 @@ p
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
-ol
+li
 {
     text-align: left;
     background: rgb(50, 50, 50);   
