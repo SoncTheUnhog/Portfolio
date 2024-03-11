@@ -1,6 +1,9 @@
-h1
+body
 {
     background-color: darkslategray;
+}
+h1
+{
     text-align: center;
     text-decoration: underline;
 
@@ -9,7 +12,6 @@ h1
 }
 h2
 {
-    background-color: darkslategray;
     text-align: center;
     
     color: white;
@@ -17,7 +19,6 @@ h2
 }
 p
 {
-    background-color: darkslategray;
     text-align: center;
     
     color: white;
@@ -25,7 +26,6 @@ p
 }
 ol
 {
-    background-color: darkslategray;
     text-align: left;
     
     color: white;
