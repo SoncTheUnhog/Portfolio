@@ -2,6 +2,10 @@ body
 {
     background: rgb(50, 50, 50);
 }
+.Content
+{
+    padding-left: 50%;
+}
 a
 {
     color: white;
