@@ -4,7 +4,7 @@ body
 }
 .Content
 {
-    margin-left: 500px;
+    margin-left: 300px;
     box-sizing: border-box;
     border: solid white 10px;
     border-radius: 5px;
@@ -28,7 +28,8 @@ h1
 }
 img
 {
-
+    size: 200px;
+    border-radius: 100px; 
 }
 h2
 {
