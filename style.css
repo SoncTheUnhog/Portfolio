@@ -4,7 +4,9 @@ body
 }
 .Content
 {
-    padding-left: 50%;
+    padding-left: 400px;
+    box-sizing: border-box;
+    border: solid white 20px;
 }
 a
 {
