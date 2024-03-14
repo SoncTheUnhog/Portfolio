@@ -29,7 +29,8 @@ h1
 img
 {
     size: 200px;
-    border-radius: 100px; 
+    border-radius: 100px;
+    float: left;
 }
 h2
 {
