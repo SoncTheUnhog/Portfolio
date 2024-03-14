@@ -2,6 +2,10 @@ body
 {
     background: rgb(50, 50, 50);
 }
+p
+{
+    color: white;
+}
 .Content
 {
     margin-left: 250px;
