@@ -12,7 +12,7 @@ body
 a
 {
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Times New Roman", serif;
     text-decoration: underline;
 }
 h1
@@ -21,7 +21,7 @@ h1
     text-decoration: underline;
     background: rgb(50, 50, 50);
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Times New Roman", serif;
 
     border-radius: 8px;
     border: black solid 15px;
@@ -31,8 +31,6 @@ img
     size: 200px;
     border-radius: 100px;
     float: left;
-    padding-left: 20px;
-    padding-right: 20px;
 }
 h2
 {
@@ -40,24 +38,24 @@ h2
     text-decoration: underline;
     background: rgb(50, 50, 50);
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Times New Roman", serif;
 }
 p
 {
     text-align: center;
     background: rgb(50, 50, 50);
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Times New Roman", serif;
 }
 ol
 {
     text-align: center;  
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Times New Roman", serif;
 }
 ul
 {
     text-align: center;  
     color: white;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Times New Roman", serif;
 }
