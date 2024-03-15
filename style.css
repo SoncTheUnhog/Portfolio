@@ -12,7 +12,8 @@ p
     box-sizing: border-box;
     border: solid white 10px;
     border-radius: 5px;
-    
+    background-color: rgb(35, 35, 35);
+
     color: white;
     text-align: center;
 }
@@ -26,7 +27,7 @@ h1
 {
     text-align: center;
     text-decoration: underline;
-    background: rgb(50, 50, 50);
+    background: rgb(35, 35, 35);
     color: white;
     font-family: "Times New Roman", serif;
 
@@ -43,14 +44,12 @@ h2
 {
     text-align: center;
     text-decoration: underline;
-    background: rgb(50, 50, 50);
     color: white;
     font-family: "Times New Roman", serif;
 }
 p
 {
     text-align: center;
-    background: rgb(50, 50, 50);
     color: white;
     font-family: "Times New Roman", serif;
 }
